@@ -42,3 +42,16 @@ Googleフォームとスプレッドシートを使って、実務で使われ�
 - ダッシュボードの強化
 - Slack通知との連携
 - PDF出力機能
+## 画面イメージ
+
+### 経費申請フォーム
+
+![経費申請フォーム](images/expense-form.png)
+
+### 経費管理シート
+
+![経費管理シート](images/expense-sheet.png)
+
+### 月別集計画面
+
+![月別集計画面](images/expense-summary.png)
